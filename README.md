@@ -36,23 +36,12 @@
 </div>
 
 ### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="">
-
-<img align="left" height="80" width="80" src="">
-
-<img align="left"  height="80" width="80" src="">
-
-<img align="left"  height="80" width="80" src="">
-
-<img align="left"  height="80" width="80" src="">
-
-<img align="left"  height="80" width="80" src="">
-
-<img align="left"  height="80" width="80" src="">
-
-<img align="left"  height="80" width="80" src="">
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 <br>
@@ -67,7 +56,7 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="">
+<img align="center" alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <img align="left"  height="80" width="80" src="">
 
