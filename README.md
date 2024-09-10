@@ -1,11 +1,13 @@
 ![github-header-image (4)](https://github.com/user-attachments/assets/c47a59e0-e115-41b6-b35f-176f0c7fe601)
-<br>
-<br>
-
-[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=1000&color=6013F7&random=false&width=435&lines=Welcom%3A;Hello%2C+My+name+is+Ingrid;I+am+25+years+old;I+am+from+Brazil;I+am+a+data+science+student)](https://git.io/typing-svg)
 
 <br>
 <br>
+
+[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=900&color=8013F7&random=false&width=500&lines=Welcom%3A;Hello%2C+My+name+is+Ingrid;I+am+25+years+old;I+am+from+Brazil;I+am+a+data+science+student)](https://git.io/typing-svg)
+
+<br>
+<br>
+
 <div aling= "center">	
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YndiGUID&theme=violet-punch&date_format=j%2Fn%5B%2FY%5D&card_width=850)](https://git.io/streak-stats)
@@ -58,13 +60,13 @@
 
 <img align="center" alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </div>
 
@@ -92,4 +94,6 @@
 
 <br>
 <br> 
+
+![github-header-image (7)](https://github.com/user-attachments/assets/ef43522a-a23b-4481-857b-e7eb6b0c6bb6)
 
