@@ -74,7 +74,3 @@
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
 </a>
 </div>
-
-<br>
-
-![github-header-image (7)](https://github.com/user-attachments/assets/ef43522a-a23b-4481-857b-e7eb6b0c6bb6)
