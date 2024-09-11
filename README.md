@@ -70,7 +70,3 @@
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FYndiGUID&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
 <br>
 </div>
-
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
