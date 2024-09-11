@@ -12,7 +12,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://instagram.com/YndiGuid" target="_blank">
+<a href="https://instagram.com/Yndi_Guid" target="_blank">
 <img align="center" height="84" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
