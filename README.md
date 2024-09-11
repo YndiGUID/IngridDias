@@ -1,8 +1,6 @@
 ![github-header-image (4)](https://github.com/user-attachments/assets/c47a59e0-e115-41b6-b35f-176f0c7fe601)
-
 <br>
 <br>
-
 [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=900&color=8013F7&random=false&width=500&lines=Welcom%3A;Hello%2C+My+name+is+Ingrid;I+am+25+years+old;I+am+from+Brazil;I+am+a+data+science+student)](https://git.io/typing-svg)
 
 <br>
@@ -30,7 +28,6 @@
 
 </div>
 
-
 <div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/YndiGUID?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
@@ -47,14 +44,8 @@
 </div>
 
 <br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
 
 <h2 align="left"> Studying in this moment: </h2>
-
 
 <div align="left"> 
 
@@ -70,12 +61,8 @@
 
 </div>
 
-
 <div align="center">
   
-<br>
-<br>
-<br>
 <br>
 
 <p align="centre"><b>Visitors Count</b></p> 
@@ -93,7 +80,5 @@
 </div>
 
 <br>
-<br> 
 
 ![github-header-image (7)](https://github.com/user-attachments/assets/ef43522a-a23b-4481-857b-e7eb6b0c6bb6)
-
